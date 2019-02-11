@@ -1,0 +1,6 @@
+numpy
+matpltlib
+tqdm
+colorama
+pandas
+keras>=2.0.3
